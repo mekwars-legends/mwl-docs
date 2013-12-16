@@ -6,14 +6,15 @@
 Welcome to MWL Documentation!
 =============================================
 
-This is an initial scratch in the sand, there's not much here atm.
+.. note:: This is an initial scratch in the sand, there's not much here atm.
 
 Contents:
 
 .. toctree::
    :maxdepth: 2
 
-
+   introduction
+   introduction/joiningTheCampaign
 
 Indices and tables
 ==================
