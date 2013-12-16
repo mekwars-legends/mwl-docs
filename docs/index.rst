@@ -3,8 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to MWL Documentation's documentation!
+Welcome to MWL Documentation!
 =============================================
+
+This is an initial scratch in the sand, there's not much here atm.
 
 Contents:
 
