@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 #
 # MWL Documentation documentation build configuration file, created by
-# sphinx-quickstart on Sun Dec 15 21:49:32 2013.
+# sphinx-quickstart on Mon Dec 16 13:39:48 2013.
 #
 # This file is execfile()d with the current directory set to its
 # containing dir.
