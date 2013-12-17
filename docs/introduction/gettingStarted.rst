@@ -6,7 +6,7 @@ This manual is meant to help you understand how this server works and prepare yo
 
 The metagame of planetary conquest and strategy is a very important part of the server life and the Faction communities. Some players put a lot of effort into this aspect of the game. Please consider this, before you rush headlong into battle. The results of your fights will impact on the strategic map, both positive and negative. You can do tremendous damage to the Faction – and all its other players - by unknowingly doing the wrong things and destroy the hard work of others.
 
-..note: Note: Don't let this discourage you!
+.. note:: Note: Don't let this discourage you!
 
 We (the other players of your faction) realize that this isn´t done by bad intention, nevertheless we would really appreciate, if you ask one of our veterans, before you go into battle and keep asking. It is our goal to get your feet planted on solid ground and hold your own on this server. You will not enjoy your games, if you keep having bad experiences and loosing battles.
 

@@ -30,7 +30,10 @@ Contents
    :maxdepth: 2
 
    introduction
-      introduction/joiningTheCampaign
+   introduction/gettingStarted
+   introduction/experiencedBattletechPlayers
+   introduction/gettingStarted/enrollingInTheCampaign
+
 
 Indices and tables
 ==================
