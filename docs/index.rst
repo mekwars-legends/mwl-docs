@@ -3,18 +3,34 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to MWL Documentation!
-=============================================
+Welcome to Mekwars Legends!
+===========================
 
 .. note:: This is an initial scratch in the sand, there's not much here atm.
 
-Contents:
+Preface
+-------
+
+Stuff.
+
+Acknowledgements
+----------------
+
+This documentation resource is a collection of some excellent resources from both the Mekwars Legends forums and from
+various sources on the internet. These sources include:
+
+- Spanish, the foundation author from which a lot of this work is sourced
+- That Griffin dudes guy.
+- Anyone which has written a guide on the MWL forums
+
+Contents
+--------
 
 .. toctree::
    :maxdepth: 2
 
    introduction
-   introduction/joiningTheCampaign
+      introduction/joiningTheCampaign
 
 Indices and tables
 ==================
