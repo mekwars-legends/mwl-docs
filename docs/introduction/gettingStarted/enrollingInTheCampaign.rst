@@ -2,6 +2,8 @@
 Enrolling in the campaign
 =========================
 
+.. toctree::
+
 Client Download
 ===============
 The Mekwars Legends client can be downloaded from the website HERE.
