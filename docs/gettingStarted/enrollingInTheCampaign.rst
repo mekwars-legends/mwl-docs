@@ -1,17 +1,11 @@
 =========================
-Enrolling in the campaign
+Enrolling in the Campaign
 =========================
 
 .. toctree::
 
-Client Download
-===============
-The Mekwars Legends client can be downloaded from the website HERE.
-
-The client requires you have java installed on your computer and you should make sure that your java version is relatively current.
-
-Creating an account Quick Overview
-==================================
+Quick Overview
+--------------
 
 * Download client
 * Create an account
@@ -21,8 +15,16 @@ Creating an account Quick Overview
  * Regimental or Cluster name
  * Unit Focus
 
+
+Client Download
+---------------
+The Mekwars Legends client can be downloaded from the website HERE.
+
+The client requires you have java installed on your computer and you should make sure that your java version is relatively current.
+
+
 Creating an account
-===================
+-------------------
 
 
 After you have downloaded and unzipped the client and made sure java is installed, your next step will be to log in to the server. For Windows users, open the ``startClient.bat`` file or on linux: ``java -jar MekWarsClient.jar``.
