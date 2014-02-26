@@ -2,8 +2,6 @@
 Legends Game play
 =================
 
-
-
 Stuff to go in here includes
 
 * Factions

@@ -111,7 +111,7 @@ When creating an army with focus on melee like TSM or pulse backstabbers, keep i
 
 When using TSM units with nasty kicks, remember to use them not as Vanguard but as second wave, as they can damage a pristine unit badly but they will cripple or kill a softened up enemy. Use cheap zombies as vanguard if possible. Keep your brawlers and infighters supported and as you close in to your target, your support units should be in at least medium range and in a good position to punch holes and force falling PSRs (prone units can´t kick back ;-)).
 
-.. note:: NEVER build an army composed of only slow brawlers and melee units, they will get torn apart. Speed is even more than normally your friend in melee armies.
+.. note::NEVER build an army composed of only slow brawlers and melee units, they will get torn apart. Speed is even more than normally your friend in melee armies.
 
 Units of remark
 ~~~~~~~~~~~~~~~
@@ -120,7 +120,7 @@ There are some units that are designed for melee and brawling or are just suited
 
 .. csv-table:: Units of remark
 	:header: "Chassis", "Feature"
-
+	
 	"No Dachi",	"(TSM, Sword, Pulse Laser)"
 	"Nightsky",	"(TSM (some), Hatchet, Pulse, jump)"
 	"Venom", 	"(long distance jump, Pulse, puncher)"
