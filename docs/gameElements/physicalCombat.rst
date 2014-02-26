@@ -118,18 +118,21 @@ Units of remark
 
 There are some units that are designed for melee and brawling or are just suited for it. This list is not complete but features some of the units known to appear regularly
 
-No Dachi 		(TSM, Sword, Pulse Laser)
-Nightsky		(TSM (some), Hatchet, Pulse, jump)
-Venom 		(long distance jump, Pulse, puncher)
-Ostsol 			(TSM (some), very fast for a heavy, Puncher)
-Berserker 		(TSM, Hatchet, 40point kicks)
-Axeman 		(AC20, Hatchet, jump, slow though)
-Wraith 			(long distance jumper, Pulse)
-Grand Dragon 	(Charges)
-Locust 		(Charges (the one with18hexes))
-Scarabus 		(TSM, charges)
-Dire Wolf S 		(Pulse monster, jump, slow though)
-Ti Tsang 		(TSM, Hatchet, jump, TAG!)
-Beowulf 		(Pulse, jumper)
-Bishamon 		(Quad, charges)
-Tarantula 		(long distance jumper, pulse, quad)
+.. csv-table:: Units of remark
+	:header: "Chassis", "Feature"
+	"No Dachi",	"(TSM, Sword, Pulse Laser)"
+	"Nightsky",	"(TSM (some), Hatchet, Pulse, jump)"
+	"Venom", 	"(long distance jump, Pulse, puncher)"
+	"Ostsol", 	"(TSM (some), very fast for a heavy, Puncher)"
+	"Berserker", "(TSM, Hatchet, 40point kicks)"
+	"Axeman", "(AC20, Hatchet, jump, slow though)"
+	"Wraith", "(long distance jumper, Pulse)"
+	"Grand Dragon", "(Charges)"
+	"Locust", "(Charges (the one with18hexes))"
+	"Scarabus", "(TSM, charges)"
+	"Dire Wolf S", "(Pulse monster, jump, slow though)"
+	"Ti Tsang", "(TSM, Hatchet, jump, TAG!)"
+	"Beowulf", "(Pulse, jumper)"
+	"Bishamon", "(Quad, charges)"
+	"Tarantula", "(long distance jumper, pulse, quad)"
+	
