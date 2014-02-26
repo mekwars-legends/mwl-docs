@@ -120,6 +120,7 @@ There are some units that are designed for melee and brawling or are just suited
 
 .. csv-table:: Units of remark
 	:header: "Chassis", "Feature"
+	
 	"No Dachi",	"(TSM, Sword, Pulse Laser)"
 	"Nightsky",	"(TSM (some), Hatchet, Pulse, jump)"
 	"Venom", 	"(long distance jump, Pulse, puncher)"
