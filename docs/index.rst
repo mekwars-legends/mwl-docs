@@ -32,12 +32,7 @@ Contents
    introduction
    introduction/gettingStarted
    introduction/experiencedBattletechPlayers
-   gettingStarted/enrollingInTheCampaign
-   legendsGameplay/militaryCampaign
-   legendsGameplay/quartermaster
-   legendsGameplay/pilots
-   legendsGameplay/buildingArmies
-
+   introduction/gettingStarted/enrollingInTheCampaign
 
 
 Indices and tables

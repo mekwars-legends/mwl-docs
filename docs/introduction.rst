@@ -2,10 +2,16 @@
 Introduction
 ============
 
-About Mekwars: Legends
-----------------------
+.. toctree::
+   :maxdepth: 2
 
-It's the shizzle!
+   gettingStarted/enrollingInTheCampaign
+
+
+   writing/beginners-guide-to-docs
+   tools/index
+       presentations/index
+       about/index
 
 
 About this Manual
