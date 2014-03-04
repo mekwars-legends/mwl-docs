@@ -1,4 +1,4 @@
-TSM (Triple Strength Myomer)
+Triple Strength Myomer (TSM)
 ==============================
 
 Triple Strength Myomer (TSM), is one of the most useful mech design features in Battletech. Mechs that carry it can run faster and do far more damage with physical attacks when TSM is activated.
@@ -18,7 +18,7 @@ Activating TSM
 
 Activating TSM requires you to over-heat the TSM mech by 9 points. If your mech dissipates 10 heat per turn (through heat sinks or by other means), to activate TSM for the next turn you would need to generate 19 heat. This means that the unit starts the next turn with 9 heat *already accrued*. To maintain TSM activation, you would once again need to generate 19 heat.
 
-Exmaple
+Example
 ~~~~~~~
 
 The SCB-9T Scarabus is a TSM equipped light mech of 30 tons. It has 2 Medium Lasers, 2 Small Lasers, a Hatchet and TAG.
@@ -52,6 +52,6 @@ The physical damage double bonus is based on the heat going into the round not a
 
 TSM does activate at 9+, not exactly 9. If you are at 10 heat, you will have an additional -1 movement, which will put you back at the mech's normal movement, but retain the 2x damage.
 
-Some TSM mechs do not have neat heat curves like the Scarabus. Good examples of this are the Grim Reaper, Grand Crusader II and several Seraphs. For these mechs, sometimes multiple rounds of fire, turning off HS, and shooting SSRMs at the ground are necessary. While others like the TDR 17S are easier to heat-manage: e.g. fire ERPPC, 3MPLs and run and to get the 9 over heat u needed in turn 1. Then you can then either jump 4 and fire all MPLs to maintain the heat or turn off 1 DHS and run and fire all 4 MPLs to maintain heat.
+Some TSM mechs do not have neat heat curves like the Scarabus. Good examples of this are the Grim Reaper, Grand Crusader II and several Seraphs. For these mechs, sometimes multiple rounds of fire, turning off HS, and shooting SRMs at the ground are necessary. While others like the TDR 17S are easier to heat-manage: e.g. fire ERPPC, 3MPLs and run and to get the 9 over heat u needed in turn 1. Then you can then either jump 4 and fire all MPLs to maintain the heat or turn off 1 DHS and run and fire all 4 MPLs to maintain heat.
 
 Plasma Rifles, flamers, and Infernos all do a good job of messing with TSM.
