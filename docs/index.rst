@@ -6,7 +6,7 @@
 Welcome to Mekwars Legends!
 ===========================
 
-.. note:: This is an initial scratch in the sand, there's not much here atm.
+.. note:: This is a work in progress. Be sure to use the search feature if you're looking for something specific.
 
 Preface
 -------
