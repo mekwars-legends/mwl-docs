@@ -2,7 +2,7 @@
 Choosing a Unit Focus
 =====================
 
-Your unit focus will affect the units which you pull from the Quartermaster and may have additional bonuses when entering or during a battle.
+Your unit focus will affect the units which you pull from the Quartermaster. They will also usually affect the armies you build, and how you play your game, and may also give you advantages in battle. Think of it as your unit's specialty, the skills that they have trained at relentlessly.
 
 You can read about the different focuses available here: http://www.mekwarslegends.com/Choosing_a_Unit_Focus.html
 
